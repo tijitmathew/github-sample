@@ -1,2 +1,0 @@
-# github-sample
-New line
